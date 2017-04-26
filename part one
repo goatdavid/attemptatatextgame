@@ -1,0 +1,16 @@
+confirm("initiate?")
+var username = prompt("username?");
+	if (username === undefined){
+console.log("please enter a username.")
+prompt("username?")}
+	else{
+confirm("chapter one.")
+    }
+confirm("you wake up from a blackout. you are falling deep into a hole.")
+confirm("you realize that you can see people falling as well.")
+var answer1 = prompt("do you collaborate with these people?")
+	if (answer1 === "yes"){
+		confirm("you all pull together, and hold on for dear life.")}
+	else {
+confirm("you die due to impact. your impulsiveness and selfishness ultimately made you die. you're going to hell.")
+    }
