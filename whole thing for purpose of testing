@@ -1,0 +1,43 @@
+confirm("initiate?")
+var username = prompt("username?");
+	if (username === undefined){
+console.log("please enter a username.")
+prompt("username?")}
+	else{
+confirm("chapter one.")
+    }
+confirm("you wake up from a blackout. you are falling deep into a hole.")
+confirm("you realize that you can see people falling as well.")
+var answer1 = prompt("do you collaborate with these people?")
+	if (answer1 === "yes"){
+		confirm("you all pull together, and hold on for dear life.")}
+	else {
+confirm("you die due to impact. your impulsiveness and selfishness ultimately made you die. you're going to hell.")
+    }
+confirm("ah, so you've made it to part two?");
+prompt("remind me of your name please.");
+confirm("your name...seems...familiar.");
+confirm("you and your new allies made it down safely, by some miracle. you all give each other your names. you say that your name is [insert name] and that you just woke up. everyone says hello [name], except for the one man in the back.");
+var ans1 = prompt("speak to him individually?")
+	if (ans1 = "yes"){
+		confirm("you approach him, and he snarls towards you.")}
+	else {
+confirm("you ignore your choice, and approach him anyways.")
+    }
+confirm("you take this snarl as a sign of hostility, but you won't give up.")
+confirm("you sit down next to him. he reeks of weed and cocaine.")
+confirm("you realize that he isn't in the best situation.")
+confirm("for some reason, he finds a signal of hope inside of you, and begins to tell you about his misadventures, up on the surface.")
+var ans2 = prompt("do you even care?")
+	if (ans2 = "yes"){
+		confirm("he doesn't think you do.")
+			var ans3 = prompt("are you sure?")
+				if (ans3 = "yes"){
+					confirm("you shine a smile towards him. he tries to smile back. he doesn't know how to take your friendly gesture and walks away. a sudden light shines upon you.")
+                }
+				else{
+					confirm("he loses some trust in you. he gets up and leaves you, in the dark, alone.")
+                }}
+	else{
+		confirm("he realizes that you aren't listening to his story. he gets up and leaves you, in the dark, alone.")
+    }
