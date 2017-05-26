@@ -1,0 +1,3 @@
+confirm("once you realize that he is gone, you decide to approach the others.")
+confirm("you are greeted with a smile by one, but the rest are too busy planning the escape from this void you've fallen into.")
+var answer7 === prompt("do you engage in their planning or do talk to the one that has greeted you.")
